@@ -1,5 +1,5 @@
 ## Hi there!
 I am Kevin Smith.
-Student at CodeUp and prospective Data Science professional.
+I am a Data Science professional.
 
 Check out some of what I am working on!
